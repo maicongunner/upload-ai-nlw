@@ -6,7 +6,7 @@
   <a href="#-technology">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#page_facing_up-functionalities">Functionalities</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#instalation-to-install-and-run-the-backend-api">Installation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#wrench-to-install-and-run-the-backend-api">Installation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
 
@@ -42,7 +42,7 @@ Application that enables video uploads and, through AI, automatically generates 
 - Automatically generates through of AI catchy titles and descriptions with good indexing
 - Possibility to edit the prompt you will send to AI
 
-## :instalation: To install and run the backend API
+## :wrench: To install and run the backend API
 
 ```bash
 # clone the project:
