@@ -64,10 +64,10 @@ $ pnpm or npm or yarn run dev
 # clone the project:
 $ git clone https://github.com/maicongunner/https://github.com/maicongunner/upload-ai-nlw.git
 
-# In the upload-ai-api folder, run the command below to install the project's dependencies:
+# In the upload-ai-web folder, run the command below to install the project's dependencies:
 $ pnpm or npm or yarn i
 
-# run the upload-ai-api folder, using the command:
+# run the upload-ai-web folder, using the command:
 $ pnpm or npm or yarn run dev
 ```
 
