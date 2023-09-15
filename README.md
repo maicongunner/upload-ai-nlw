@@ -58,7 +58,7 @@ $ npx prisma generate
 $ pnpm or npm or yarn run dev
 ```
 
-## To install and run the frontend web
+## :wrench: To install and run the frontend web
 
 ```bash
 # clone the project:
